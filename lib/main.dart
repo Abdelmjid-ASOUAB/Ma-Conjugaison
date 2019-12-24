@@ -1,3 +1,6 @@
+import 'dart:developer';
+import 'dart:io';
+
 import 'package:auto_suggestion_text_field/model/text_field_prop.dart';
 import 'package:auto_suggestion_text_field/suggestion_text_field.dart';
 import 'package:flutter/material.dart';
@@ -2003,6 +2006,335 @@ List<String> temps = [
   "subjonctif imparfait",
   "subjonctif plus-que-parfait"
 ];
+
+List<String> link = [
+  "commémorer",
+  "commérer",
+  "comparaître",
+  "comparer",
+  "comparoir",
+  "compartimenter",
+  "compasser",
+  "compatir",
+  "compenser",
+  "compiler",
+  "complaire",
+  "complexer",
+  "complexifier",
+  "complimenter",
+  "compliquer",
+  "comploter",
+  "compléter",
+  "comporter",
+  "composer",
+  "composter",
+  "comprendre",
+  "compresser",
+  "comprimer",
+  "compromettre",
+  "comptabiliser",
+  "compter",
+  "compulser",
+  "computer",
+  "compéter",
+  "concasser",
+  "concentrer",
+  "conceptualiser",
+  "concerner",
+  "concerter",
+  "concevoir",
+  "concilier",
+  "conclure",
+  "concocter",
+  "concorder",
+  "concourir",
+  "concréter",
+  "concrétiser",
+  "concurrencer",
+  "concéder",
+  "concélébrer",
+  "condamner",
+  "condenser",
+  "condescendre",
+  "conditionner",
+  "conduire",
+  "confectionner",
+  "confesser",
+  "confier",
+  "configurer",
+  "confiner",
+  "confire",
+  "confirmer",
+  "confisquer",
+  "confluer",
+  "confondre",
+  "conformer",
+  "conforter",
+  "confronter",
+  "confédérer",
+  "conférer",
+  "congeler",
+  "congestionner",
+  "conglomérer",
+  "conglutiner",
+  "congratuler",
+  "congréer",
+  "congédier",
+  "conjecturer",
+  "conjoindre",
+  "conjuguer",
+  "conjurer",
+  "connaître",
+  "connecter",
+  "connoter",
+  "conobrer",
+  "conquérir",
+  "conquêter",
+  "consacrer",
+  "conseiller",
+  "consentir",
+  "conserver",
+  "considérer",
+  "consigner",
+  "consister",
+  "consoler",
+  "consolider",
+  "consommer",
+  "consoner",
+  "conspirer",
+  "conspuer",
+  "constater",
+  "consteller",
+  "consterner",
+  "constiper",
+  "constituer",
+  "constitutionnaliser",
+  "construire",
+  "consulter",
+  "consumer",
+  "contacter",
+  "contagionner",
+  "containeriser",
+  "contaminer",
+  "contempler",
+  "contenir",
+  "contenter",
+  "conter",
+  "contester",
+  "contingenter",
+  "continuer",
+  "contorsionner",
+  "contourner",
+  "contracter",
+  "contractualiser",
+  "contracturer",
+  "contraindre",
+  "contrarier",
+  "contraster",
+  "contre-attaquer",
+  "contre-buter",
+  "contre-indiquer",
+  "contre-manifester",
+  "contre-miner",
+  "contre-murer",
+  "contre-passer",
+  "contre-plaquer",
+  "contre-sceller",
+  "contre-tirer",
+  "contrebalancer",
+  "contrebattre",
+  "contrebouter",
+  "contrebuter",
+  "contrecarrer",
+  "contrecoller",
+  "contredire",
+  "contrefaire",
+  "contreficher",
+  "contrefoutre",
+  "contremander",
+  "contremarquer",
+  "contrer",
+  "contresigner",
+  "contrevenir",
+  "contribuer",
+  "contrister",
+  "controuver",
+  "controverser",
+  "contrôler",
+  "contusionner",
+  "convaincre",
+  "convenir",
+  "conventionner",
+  "conventualiser",
+  "converger",
+  "converser",
+  "convertir",
+  "convier",
+  "convoiter",
+  "convoler",
+  "convoquer",
+  "convoyer",
+  "convulser",
+  "convulsionner",
+  "coopter",
+  "coopérer",
+  "coordonner",
+  "coorganiser",
+  "copartager",
+  "copermuter",
+  "copier",
+  "copiner",
+  "coposséder",
+  "copuler",
+  "coquer",
+  "coqueter",
+  "coquiller",
+  "cordeler",
+  "corder",
+  "cordonner",
+  "corner",
+  "correctionnaliser",
+  "correspondre",
+  "corriger",
+  "corroborer",
+  "corroder",
+  "corrompre",
+  "corroyer",
+  "corréler",
+  "corser",
+  "corseter",
+  "cosmétiquer",
+  "cosser",
+  "costumer",
+  "coter",
+  "cotir",
+  "cotiser",
+  "cotonner",
+  "coucher",
+  "couder",
+  "coudoyer",
+  "coudre",
+  "couillonner",
+  "couiner",
+  "couler",
+  "coulisser",
+  "coupailler",
+  "coupeller",
+  "couper",
+  "coupler",
+  "courailler",
+  "courbaturer",
+  "courber",
+  "courir",
+  "couronner",
+  "courroucer",
+  "courser",
+  "court-circuiter",
+  "courtauder",
+  "courtiser",
+  "cousiner",
+  "couturer",
+  "couver",
+  "couvrir",
+  "coïncider",
+  "coïter",
+  "coûter",
+  "cracher",
+  "crachiner",
+  "crachoter",
+  "crachouiller",
+  "crailler",
+  "craindre",
+  "cramer",
+  "cramponner",
+  "crampser",
+  "cramser",
+  "craner",
+  "cranter",
+  "crapahuter",
+  "crapuler",
+  "craqueler",
+  "craquer",
+  "craqueter",
+  "crasher",
+  "crasser",
+  "cravacher",
+  "cravater",
+  "crawler",
+  "crayonner",
+  "creuser",
+  "crevasser",
+  "crever",
+  "criailler",
+  "cribler",
+  "crier",
+  "criminaliser",
+  "crisper",
+  "crisser",
+  "cristalliser",
+  "criticailler",
+  "critiquer",
+  "croasser",
+  "crocher",
+  "crocheter",
+  "croire",
+  "croiser",
+  "croquer",
+  "crosser",
+  "crotter",
+  "crouler",
+  "croupionner",
+  "croupir",
+  "croustiller",
+  "croître",
+  "croûter",
+  "crucifier",
+  "cryptographier",
+  "crâner",
+  "crécher",
+  "créditer",
+  "créer",
+  "crémer",
+  "créneler",
+  "créner",
+  "créoliser",
+  "créosoter",
+  "crépir",
+  "crépiter",
+  "crétiniser",
+  "crêper",
+  "cuber",
+  "cueillir",
+  "cuirasser",
+  "cuire",
+  "cuisiner",
+  "cuiter",
+  "cuivrer",
+  "culbuter",
+  "culer",
+  "culminer",
+  "culotter",
+  "culpabiliser",
+  "cultiver",
+  "cumuler",
+  "curer",
+  "cureter",
+  "cuveler",
+  "cuver",
+  "cyanoser",
+  "cycliser",
+  "cylindrer",
+  "câbler",
+  "câliner",
+  "céder",
+  "célébrer",
+  "cémenter",
+  "côcher",
+  "cônir",
+  "côtoyer",
+  "cœxister"
+];
+
 double width;
 double height;
 var lastdata;
@@ -2011,88 +2343,127 @@ List<String> history = ["avoir"];
 bool closeSeach = false;
 
 String testJson = v.vV;
-// "{\"vouer\": {\"subjonctif passé\": [\"aie voué\",        \" aies voué\",        \" ait voué\"    ],    \"impératif présent\": [        \"-\",        \" voue\",        \" -\"    ],\"indicatif présent\": [        \"voue\",        \" voues\",        \" voue\"    ],    \"indicatif passé composé\": [        \"ai voué\",        \" as voué\",        \" a voué\"    ],    \"indicatif futur simple\": [        \"vouerai\",        \" voueras\",        \" vouera\"    ],    \"indicatif imparfait\": [        \"vouais\",        \" vouais\",        \" vouait\"    ]},\"zézayer\": {    \"subjonctif passé\": [        \"aie zézayé\",        \" aies zézayé\",        \" ait zézayé\"    ],    \"impératif présent\": [        \"-\",        \" zézaye\",        \" -\"            ],    \"indicatif présent\": [        \"zézaye\",        \" zézayes\",\" zézaye\" ]}}";
 
 Future getData(String v) async {
-  // var jsonVerb = "{\"$v\":{";
-  var jsonVerb = "{";
+  for (int ii = 0; ii < link.length; ii++) {
+    var jsonVerb = "{";
 
+    List<String> myList = [];
+
+    http.Response response =
+        await http.get("https://verbes.woxikon.fr/fr/" + link[ii]);
+
+    dom.Document document = parser.parse(utf8.decode(response.bodyBytes));
+
+    document.getElementsByTagName('thead').forEach((child) {
+      child.getElementsByTagName("th").forEach((f) {
+        if (f.firstChild.text.trim() != "")
+          myList.add(f.firstChild.text.trim());
+      });
+    });
+    int jj = 0;
+
+    document.getElementsByTagName('tr').forEach((child) {
+      if (child.getElementsByTagName("th").first.text.trim().toString() !=
+              "Impératifs et participes" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "participe présent" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "infinitif passé" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "Type") {
+        jj++;
+      }
+    });
+
+    int j = 1;
+
+    document.getElementsByTagName('tr').forEach((child) {
+      if (child.getElementsByTagName("th").first.text.trim().toString() !=
+              "Impératifs et participes" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "participe présent" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "infinitif passé" &&
+          child.getElementsByTagName("th").first.text.trim().toString() !=
+              "Type") {
+        jsonVerb +=
+            "\"" + child.getElementsByTagName("th").first.text.trim() + "\" :[";
+
+        int i = 1;
+        child.getElementsByTagName("td").forEach((f) {
+          if (f.firstChild.text.trim() != "") {
+            if (i != 6) {
+              jsonVerb += "\"" + f.firstChild.text.trim() + "\",";
+            } else {
+              jsonVerb += "\"" + f.firstChild.text.trim() + "\"";
+            }
+          } else {
+            String s = f.innerHtml.toString().trim();
+            String r = s.replaceAll("<span class=\"hl-light\">", '');
+            String r2 = r.replaceAll("</span>", '');
+
+            //print(r2);
+            if (i != 6) {
+              jsonVerb += "\"$r2\",";
+            } else {
+              jsonVerb += "\"$r2\"";
+            }
+          }
+          i++;
+        });
+
+        if (j != jj) {
+          jsonVerb += "],";
+        } else {
+          jsonVerb += "]";
+        }
+
+        j++;
+      }
+    });
+
+    jsonVerb += "}";
+
+    lastdata = jsonVerb;
+
+    // print(jsonVerb);
+    // log(jsonVerb);
+
+    List<String> splitjson = jsonVerb.split("],");
+    print(",\"${link[ii]}\":");
+
+    splitjson.forEach((f) {
+      if (f != splitjson.last) {
+        print("$f],");
+      } else {
+        print("$f");
+      }
+    });
+  }
+}
+
+Future getlink(String v) async {
   List<String> myList = [];
 
-  http.Response response = await http.get("https://verbes.woxikon.fr/fr/" + v);
+  for (int ii = 0; ii < link.length; ii++) {
+    http.Response response = await http.get(link[ii]);
 
-  dom.Document document = parser.parse(utf8.decode(response.bodyBytes));
+    dom.Document document = parser.parse(utf8.decode(response.bodyBytes));
 
-  document.getElementsByTagName('thead').forEach((child) {
-    child.getElementsByTagName("th").forEach((f) {
-      if (f.firstChild.text.trim() != "") myList.add(f.firstChild.text.trim());
-    });
-  });
-  int jj = 0;
-
-  document.getElementsByTagName('tr').forEach((child) {
-    if (child.getElementsByTagName("th").first.text.trim().toString() !=
-            "Impératifs et participes" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "participe présent" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "infinitif passé" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "Type") {
-      jj++;
-    }
-  });
-
-  int j = 1;
-
-  document.getElementsByTagName('tr').forEach((child) {
-    if (child.getElementsByTagName("th").first.text.trim().toString() !=
-            "Impératifs et participes" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "participe présent" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "infinitif passé" &&
-        child.getElementsByTagName("th").first.text.trim().toString() !=
-            "Type") {
-      jsonVerb +=
-          "\"" + child.getElementsByTagName("th").first.text.trim() + "\" :[";
-
-      int i = 1;
-      child.getElementsByTagName("td").forEach((f) {
-        if (f.firstChild.text.trim() != "") {
-          if (i != 6) {
-            jsonVerb += "\"" + f.firstChild.text.trim() + "\",";
-          } else {
-            jsonVerb += "\"" + f.firstChild.text.trim() + "\"";
-          }
-        } else {
-          String s = f.innerHtml.toString().trim();
-          String r = s.replaceAll("<span class=\"hl-light\">", '');
-          String r2 = r.replaceAll("</span>", '');
-
-          //print(r2);
-          if (i != 6) {
-            jsonVerb += "\"$r2\",";
-          } else {
-            jsonVerb += "\"$r2\"";
-          }
-        }
-        i++;
+    document.getElementsByClassName('list-from-to').forEach((child) {
+      child.getElementsByTagName("a").forEach((f) {
+        if (f.text.trim() != "") myList.add(f.text.trim());
       });
 
-      if (j != jj) {
-        jsonVerb += "],";
-      } else {
-        jsonVerb += "]";
-      }
+      // print(child.text.trim().trim());
+    });
+  }
 
-      j++;
-    }
+  int t = 0;
+  myList.forEach((f) {
+    log(f);
   });
-
-  jsonVerb += "}";
-
-  lastdata = jsonVerb;
 }
 
 void main() => runApp(MyApp());
@@ -2257,9 +2628,11 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.search),
         onPressed: () {
-          setState(() {
-            closeSeach = false;
-          });
+          // setState(() {
+          //   closeSeach = false;
+          // });
+          print('clicked...');
+          getData("bosser");
         },
       ),
     );

@@ -1,0 +1,778 @@
+
+  A
+
+                "https://verbes.woxikon.fr/fr-abaisser-to-aboutir",
+               
+                "https://verbes.woxikon.fr/fr-aboyer-to-ab%C3%AEmer",
+                  
+                "https://verbes.woxikon.fr/fr-accabler-to-accoupler",
+           
+                "https://verbes.woxikon.fr/fr-accourcir-to-achever",
+                   
+                "https://verbes.woxikon.fr/fr-achromatiser-to-adh%C3%A9rer",
+                
+                "https://verbes.woxikon.fr/fr-adjectiver-to-affabuler",
+                  
+                "https://verbes.woxikon.fr/fr-affadir-to-affluer",
+                    
+                "https://verbes.woxikon.fr/fr-affoler-to-aggraver",
+                   
+                "https://verbes.woxikon.fr/fr-agioter-to-aigrir",
+                    
+                "https://verbes.woxikon.fr/fr-aiguiller-to-aligner",
+                 
+                "https://verbes.woxikon.fr/fr-alimenter-to-aluminer",
+                    
+                "https://verbes.woxikon.fr/fr-aluner-to-amincir",
+                   
+                "https://verbes.woxikon.fr/fr-amnistier-to-analyser",
+                    
+                "https://verbes.woxikon.fr/fr-anath%C3%A9matiser-to-anordir",
+                    
+                "https://verbes.woxikon.fr/fr-anticiper-to-appara%C3%AEtre",
+                   
+                "https://verbes.woxikon.fr/fr-appareiller-to-approfondir",
+                    
+                "https://verbes.woxikon.fr/fr-approprier-to-ardoiser",
+                    
+                "https://verbes.woxikon.fr/fr-argenter-to-arriver",
+                   
+                "https://verbes.woxikon.fr/fr-arri%C3%A9rer-to-assassiner",
+                   
+                "https://verbes.woxikon.fr/fr-assembler-to-assourdir",
+                  
+                "https://verbes.woxikon.fr/fr-assouvir-to-attendrir",
+                    
+                "https://verbes.woxikon.fr/fr-attenter-to-augmenter",
+                    
+                "https://verbes.woxikon.fr/fr-augurer-to-avantager",
+                    
+                "https://verbes.woxikon.fr/fr-avarier-to-azurer",
+                    
+                "https://verbes.woxikon.fr/fr-a%C3%A9rer-to-a%C3%A9rotransporter",
+                
+
+B
+
+
+               "https://verbes.woxikon.fr/fr-babiller-to-balancer",
+                   
+               "https://verbes.woxikon.fr/fr-balanstiquer-to-baptiser",
+                 
+               "https://verbes.woxikon.fr/fr-baqueter-to-basculer",
+                
+               "https://verbes.woxikon.fr/fr-baser-to-berner",
+                   
+               "https://verbes.woxikon.fr/fr-besogner-to-billonner",
+                    
+               "https://verbes.woxikon.fr/fr-biloquer-to-blablater",
+                    
+               "https://verbes.woxikon.fr/fr-blackbouler-to-bluetter",
+                   
+               "https://verbes.woxikon.fr/fr-bluffer-to-bonimenter",
+                   
+               "https://verbes.woxikon.fr/fr-border-to-bouffir",
+                   
+               "https://verbes.woxikon.fr/fr-bouffonner-to-bourriquer",
+                   
+               "https://verbes.woxikon.fr/fr-boursicoter-to-brancher",
+                   
+               "https://verbes.woxikon.fr/fr-brandiller-to-briguer",
+                   
+               "https://verbes.woxikon.fr/fr-brillanter-to-brouillonner",
+                    
+               "https://verbes.woxikon.fr/fr-broussailler-to-buriner",
+                  
+               "https://verbes.woxikon.fr/fr-busquer-to-b%C3%A9nir",
+                  
+               "https://verbes.woxikon.fr/fr-b%C3%A9n%C3%A9ficier-to-b%C5%93tter",
+                   
+
+C
+
+
+               "https://verbes.woxikon.fr/fr-cabaler-to-cagnarder",
+                   
+               "https://verbes.woxikon.fr/fr-cagner-to-calmer",
+                  
+               "https://verbes.woxikon.fr/fr-calmir-to-caner",
+                    
+               "https://verbes.woxikon.fr/fr-canneler-to-capter",
+                   
+               "https://verbes.woxikon.fr/fr-captiver-to-caricaturer",
+                   
+               "https://verbes.woxikon.fr/fr-carier-to-castrer",
+                   
+               "https://verbes.woxikon.fr/fr-cas%C3%A9ifier-to-celer",
+                   
+               "https://verbes.woxikon.fr/fr-cendrer-to-chambrer",
+                    
+               "https://verbes.woxikon.fr/fr-chamoiser-to-chaptaliser",
+                   
+               "https://verbes.woxikon.fr/fr-charbonner-to-cheminer",
+                   
+               "https://verbes.woxikon.fr/fr-chemiser-to-chipoter",
+                    
+               "https://verbes.woxikon.fr/fr-chiquer-to-chroniquer",
+                   
+               "https://verbes.woxikon.fr/fr-chronom%C3%A9trer-to-circonstancier",
+                  
+               "https://verbes.woxikon.fr/fr-circonvenir-to-claquer",
+                  
+               "https://verbes.woxikon.fr/fr-claqueter-to-cloner",
+                    
+               "https://verbes.woxikon.fr/fr-clopiner-to-cogner",
+                  
+               "https://verbes.woxikon.fr/fr-cog%C3%A9rer-to-colporter",
+                   
+               "https://verbes.woxikon.fr/fr-coltiner-to-comm%C3%A9rer",
+                    
+               "https://verbes.woxikon.fr/fr-compara%C3%AEtre-to-compresser",
+                  
+               "https://verbes.woxikon.fr/fr-comprimer-to-concr%C3%A9tiser",
+                   
+               "https://verbes.woxikon.fr/fr-concurrencer-to-conforter",
+                   
+               "https://verbes.woxikon.fr/fr-confronter-to-conqu%C3%AAter",
+                   
+               "https://verbes.woxikon.fr/fr-consacrer-to-construire",
+                   
+               "https://verbes.woxikon.fr/fr-consulter-to-contrarier",
+                   
+               "https://verbes.woxikon.fr/fr-contraster-to-contreficher",
+                   
+               "https://verbes.woxikon.fr/fr-contrefoutre-to-convier",
+                   
+               "https://verbes.woxikon.fr/fr-convoiter-to-cordeler",
+                   
+               "https://verbes.woxikon.fr/fr-corder-to-cotonner",
+                   
+               "https://verbes.woxikon.fr/fr-coucher-to-court-circuiter",
+                    
+               "https://verbes.woxikon.fr/fr-courtauder-to-craner",
+                    
+               "https://verbes.woxikon.fr/fr-cranter-to-crisper",
+                   
+               "https://verbes.woxikon.fr/fr-crisser-to-cryptographier",
+                  
+               "https://verbes.woxikon.fr/fr-cr%C3%A2ner-to-cuivrer",
+                  
+               "https://verbes.woxikon.fr/fr-culbuter-to-c%C3%B4cher",
+                   
+               "https://verbes.woxikon.fr/fr-c%C3%B4nir-to-c%C5%93xister",
+
+D
+
+
+               "https://verbes.woxikon.fr/fr-dactylographier-to-desceller",
+                    
+               "https://verbes.woxikon.fr/fr-descendre-to-destiner",
+                    
+               "https://verbes.woxikon.fr/fr-destituer-to-diff%C3%A9rencier",
+                   
+               "https://verbes.woxikon.fr/fr-diff%C3%A9rer-to-disconvenir",
+                   
+               "https://verbes.woxikon.fr/fr-discorder-to-disputer",
+                    
+               "https://verbes.woxikon.fr/fr-disqualifier-to-diverger",
+                    
+               "https://verbes.woxikon.fr/fr-diversifier-to-dorloter",
+                    
+               "https://verbes.woxikon.fr/fr-dormir-to-dresser",
+                   
+               "https://verbes.woxikon.fr/fr-dribbler-to-d%C3%A9ballonner",
+                  
+               "https://verbes.woxikon.fr/fr-d%C3%A9balourder-to-d%C3%A9blat%C3%A9rer",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9blayer-to-d%C3%A9boutonner",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9bo%C3%AEter-to-d%C3%A9cabosser",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9cacheter-to-d%C3%A9carbonater",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9carburer-to-d%C3%A9charner",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9chaumer-to-d%C3%A9claveter",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9clencher-to-d%C3%A9commander",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9commettre-to-d%C3%A9contaminer",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9contenancer-to-d%C3%A9crisper",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9crocher-to-d%C3%A9cuver",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9c%C3%A9der-to-d%C3%A9fausser",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9favoriser-to-d%C3%A9florer",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9fl%C3%A9chir-to-d%C3%A9froncer",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9froquer-to-d%C3%A9givrer",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9glacer-to-d%C3%A9graisser",
+                 
+               "https://verbes.woxikon.fr/fr-d%C3%A9gravoyer-to-d%C3%A9harder",
+                  
+               "https://verbes.woxikon.fr/fr-d%C3%A9harnacher-to-d%C3%A9larder",
+                  
+               "https://verbes.woxikon.fr/fr-d%C3%A9lasser-to-d%C3%A9lourder",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9lover-to-d%C3%A9marrer",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9mascler-to-d%C3%A9moduler",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9molir-to-d%C3%A9m%C3%A2ter",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9m%C3%A9nager-to-d%C3%A9nitrifier",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9niveler-to-d%C3%A9parasiter",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9pareiller-to-d%C3%A9phaser",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9phosphorer-to-d%C3%A9pl%C3%A2trer",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9pointer-to-d%C3%A9prendre",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9primer-to-d%C3%A9raidir",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9railler-to-d%C3%A9r%C3%A9aliser",
+                  
+               "https://verbes.woxikon.fr/fr-d%C3%A9r%C3%A9gler-to-d%C3%A9saligner",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9sali%C3%A9ner-to-d%C3%A9sassimiler",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9sassortir-to-d%C3%A9sencarter",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9senchanter-to-d%C3%A9senrhumer",
+                  
+               "https://verbes.woxikon.fr/fr-d%C3%A9senrouer-to-d%C3%A9shabituer",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9sherber-to-d%C3%A9sint%C3%A9grer",
+                    
+               "https://verbes.woxikon.fr/fr-d%C3%A9sint%C3%A9resser-to-d%C3%A9soxyg%C3%A9ner",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9stabiliser-to-d%C3%A9tailler",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9taler-to-d%C3%A9tonneler",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9tonner-to-d%C3%A9tr%C3%B4ner",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9t%C3%A9riorer-to-d%C3%A9viroler",
+                   
+               "https://verbes.woxikon.fr/fr-d%C3%A9visager-to-d%C3%AEner",
+                    
+                  
+E
+
+
+               "https://verbes.woxikon.fr/fr-effacer-to-embabouiner",
+                  
+               "https://verbes.woxikon.fr/fr-emballer-to-embobiner",
+                   
+               "https://verbes.woxikon.fr/fr-emboquer-to-embreler",
+               
+               "https://verbes.woxikon.fr/fr-embrever-to-emmeuler",
+                   
+               "https://verbes.woxikon.fr/fr-emmieller-to-empatter",
+                   
+               "https://verbes.woxikon.fr/fr-empaumer-to-empoisser",
+                   
+               "https://verbes.woxikon.fr/fr-empoissonner-to-encager",
+                    
+               "https://verbes.woxikon.fr/fr-encaisser-to-enchaussener",
+                   
+               "https://verbes.woxikon.fr/fr-enchausser-to-encoffrer",
+                   
+               "https://verbes.woxikon.fr/fr-encoller-to-endimancher",
+                   
+               "https://verbes.woxikon.fr/fr-endivisionner-to-enfler",
+                    
+               "https://verbes.woxikon.fr/fr-enfleurer-to-engendrer",
+                    
+               "https://verbes.woxikon.fr/fr-engerber-to-engueuler",
+                    
+               "https://verbes.woxikon.fr/fr-enguirlander-to-enliasser",
+                   
+               "https://verbes.woxikon.fr/fr-enlier-to-enrichir",
+                   
+               "https://verbes.woxikon.fr/fr-enrober-to-ensimer",
+                   
+               "https://verbes.woxikon.fr/fr-ensoleiller-to-entonner",
+                   
+               "https://verbes.woxikon.fr/fr-entortiller-to-entre-manger",
+                   
+               "https://verbes.woxikon.fr/fr-entre-nuire-to-entrer",
+                
+               "https://verbes.woxikon.fr/fr-entreregarder-to-enverrer",
+                   
+               "https://verbes.woxikon.fr/fr-envider-to-escompter",
+                   
+               "https://verbes.woxikon.fr/fr-escorter-to-essoucher",
+                   
+               "https://verbes.woxikon.fr/fr-essouffler-to-exag%C3%A9rer",
+                    
+               "https://verbes.woxikon.fr/fr-exalter-to-exemplifier",
+                   
+               "https://verbes.woxikon.fr/fr-exempter-to-expertiser",
+                   
+               "https://verbes.woxikon.fr/fr-expier-to-extorquer",
+                 
+               "https://verbes.woxikon.fr/fr-extrader-to-ex%C3%A9cuter",
+                 
+F
+
+               "https://verbes.woxikon.fr/fr-fabriquer-to-fanatiser",
+                 
+               "https://verbes.woxikon.fr/fr-faner-to-fauder",
+                    
+               "https://verbes.woxikon.fr/fr-faufiler-to-fertiliser",
+                    
+               "https://verbes.woxikon.fr/fr-fesser-to-filer",
+                
+               "https://verbes.woxikon.fr/fr-fileter-to-flamber",
+                  
+               "https://verbes.woxikon.fr/fr-flamboyer-to-flouser",
+                    
+               "https://verbes.woxikon.fr/fr-fluber-to-foncer",
+                   
+               "https://verbes.woxikon.fr/fr-fonctionnariser-to-forpaiser",
+                    
+               "https://verbes.woxikon.fr/fr-fortifier-to-fournir",
+                    
+               "https://verbes.woxikon.fr/fr-fourrager-to-fredonner",
+                    
+               "https://verbes.woxikon.fr/fr-freiner-to-froisser",
+                   
+               "https://verbes.woxikon.fr/fr-froncer-to-fumiger",
+                    
+               "https://verbes.woxikon.fr/fr-fureter-to-f%C3%AAter",
+
+G
+
+               
+               "https://verbes.woxikon.fr/fr-gabarier-to-gambergeailler",
+                
+               "https://verbes.woxikon.fr/fr-gamberger-to-gauler",
+                
+               "https://verbes.woxikon.fr/fr-gausser-to-gironner",
+                
+               "https://verbes.woxikon.fr/fr-girouetter-to-gober",
+                
+               "https://verbes.woxikon.fr/fr-goberger-to-goujonner",
+                
+               "https://verbes.woxikon.fr/fr-goupiller-to-grappiller",
+                
+               "https://verbes.woxikon.fr/fr-grasseyer-to-griffer",
+                
+               "https://verbes.woxikon.fr/fr-griffonner-to-grommeler",
+                
+               "https://verbes.woxikon.fr/fr-gronder-to-guillemeter",
+                    
+               "https://verbes.woxikon.fr/fr-guiller-to-g%C3%A9rer",
+                   
+               "https://verbes.woxikon.fr/fr-g%C3%A9sir-to-g%C3%AEter",
+              
+H 
+
+
+               "https://verbes.woxikon.fr/fr-habiliter-to-harmoniser",
+                
+               "https://verbes.woxikon.fr/fr-harnacher-to-hisser",
+                
+               "https://verbes.woxikon.fr/fr-historier-to-hourdir",
+                
+               "https://verbes.woxikon.fr/fr-houspiller-to-hypostasier",
+                
+               "https://verbes.woxikon.fr/fr-hypoth%C3%A9quer-to-h%C3%A9siter",
+
+
+I
+
+
+               "https://verbes.woxikon.fr/fr-identifier-to-immigrer",
+                
+               "https://verbes.woxikon.fr/fr-immiscer-to-imprimer",
+                
+               "https://verbes.woxikon.fr/fr-improuver-to-incorporer",
+                
+               "https://verbes.woxikon.fr/fr-incriminer-to-industrialiser",
+                
+               "https://verbes.woxikon.fr/fr-infantiliser-to-inhaler",
+                
+               "https://verbes.woxikon.fr/fr-inhiber-to-insonoriser",
+                
+               "https://verbes.woxikon.fr/fr-inspecter-to-intenter",
+                
+               "https://verbes.woxikon.fr/fr-interagir-to-interroger",
+                
+               "https://verbes.woxikon.fr/fr-interrompre-to-inventorier",
+                
+               "https://verbes.woxikon.fr/fr-inverser-to-ixer",
+                            
+J
+
+
+               "https://verbes.woxikon.fr/fr-jabler-to-javelliser",
+                
+               "https://verbes.woxikon.fr/fr-jeter-to-juponner",
+                
+               "https://verbes.woxikon.fr/fr-jurer-to-juxtaposer",
+
+K
+
+
+               "https://verbes.woxikon.fr/fr-kidnapper-to-k%C3%A9ratiniser",
+                 
+L
+
+
+               "https://verbes.woxikon.fr/fr-labialiser-to-languir",
+                
+               "https://verbes.woxikon.fr/fr-lanterner-to-lessiver",
+                
+               "https://verbes.woxikon.fr/fr-lester-to-liguer",
+                
+               "https://verbes.woxikon.fr/fr-limander-to-lobotomiser",
+                
+               "https://verbes.woxikon.fr/fr-localiser-to-louver",
+                
+               "https://verbes.woxikon.fr/fr-louveter-to-l%C3%A9gender",
+                
+               "https://verbes.woxikon.fr/fr-l%C3%A9gif%C3%A9rer-to-l%C3%A9zarder",
+               
+M 
+ 
+
+               "https://verbes.woxikon.fr/fr-macadamiser-to-mainmettre",
+                
+               "https://verbes.woxikon.fr/fr-maintenir-to-manipuler",
+                
+               "https://verbes.woxikon.fr/fr-mani%C3%A9rer-to-margauder",
+                
+               "https://verbes.woxikon.fr/fr-marger-to-marronner",
+                
+               "https://verbes.woxikon.fr/fr-marsouiner-to-matir",
+                
+               "https://verbes.woxikon.fr/fr-matraquer-to-mentionner",
+                
+               "https://verbes.woxikon.fr/fr-mentir-to-militariser",
+                
+               "https://verbes.woxikon.fr/fr-militer-to-mitonner",
+                
+               "https://verbes.woxikon.fr/fr-mitrailler-to-molletonner",
+                
+               "https://verbes.woxikon.fr/fr-mollir-to-morfier",
+                
+               "https://verbes.woxikon.fr/fr-morfiler-to-mouler",
+                
+               "https://verbes.woxikon.fr/fr-mouliner-to-municipaliser",
+                
+               "https://verbes.woxikon.fr/fr-munir-to-m%C3%A2chouiller",
+                
+               "https://verbes.woxikon.fr/fr-m%C3%A2churer-to-m%C3%A9gisser",
+                
+               "https://verbes.woxikon.fr/fr-m%C3%A9goter-to-m%C3%A9vendre",
+                
+               "https://verbes.woxikon.fr/fr-m%C3%AAler-to-m%C3%BBrir",
+                
+N 
+
+
+
+               "https://verbes.woxikon.fr/fr-nacrer-to-nervurer",
+                
+               "https://verbes.woxikon.fr/fr-nettoyer-to-noircir",
+                
+               "https://verbes.woxikon.fr/fr-noliser-to-nuire",
+                
+               "https://verbes.woxikon.fr/fr-num%C3%A9riser-to-n%C3%A9gocier",
+                 
+O
+
+               "https://verbes.woxikon.fr/fr-objecter-to-ob%C3%A9rer",
+                
+               "https://verbes.woxikon.fr/fr-occasionner-to-omettre",
+                
+               "https://verbes.woxikon.fr/fr-onder-to-ordonner",
+                
+               "https://verbes.woxikon.fr/fr-organiser-to-outrager",
+                
+               "https://verbes.woxikon.fr/fr-outrepasser-to-ozoniser",
+                
+P
+
+
+               "https://verbes.woxikon.fr/fr-pacager-to-palanquer",
+                
+               "https://verbes.woxikon.fr/fr-palataliser-to-pantoufler",
+                
+               "https://verbes.woxikon.fr/fr-papillonner-to-parcelliser",
+                
+               "https://verbes.woxikon.fr/fr-parcheminer-to-parrainer",
+                
+               "https://verbes.woxikon.fr/fr-parsemer-to-patauger",
+                
+               "https://verbes.woxikon.fr/fr-pateliner-to-peausser",
+                
+               "https://verbes.woxikon.fr/fr-peigner-to-percevoir",
+                
+               "https://verbes.woxikon.fr/fr-percher-to-personnaliser",
+                
+               "https://verbes.woxikon.fr/fr-personnifier-to-piaffer",
+                
+               "https://verbes.woxikon.fr/fr-piailler-to-pinceauter",
+                
+               "https://verbes.woxikon.fr/fr-pincer-to-pi%C3%A9ger",
+                
+               "https://verbes.woxikon.fr/fr-pi%C3%A9ter-to-plastifier",
+                
+               "https://verbes.woxikon.fr/fr-plastiquer-to-pluviner",
+                
+               "https://verbes.woxikon.fr/fr-pl%C3%A2trer-to-politiser",
+                
+               "https://verbes.woxikon.fr/fr-polluer-to-porphyriser",
+                
+               "https://verbes.woxikon.fr/fr-porter-to-pouponner",
+                
+               "https://verbes.woxikon.fr/fr-pourchasser-to-prier",
+                
+               "https://verbes.woxikon.fr/fr-primariser-to-programmer",
+                
+               "https://verbes.woxikon.fr/fr-progresser-to-proscrire",
+                
+               "https://verbes.woxikon.fr/fr-prosodier-to-pr%C3%A9c%C3%A9der",
+                
+               "https://verbes.woxikon.fr/fr-pr%C3%A9destiner-to-pr%C3%A9m%C3%A9diter",
+                
+               "https://verbes.woxikon.fr/fr-pr%C3%A9nommer-to-pr%C3%A9voir",
+                
+               "https://verbes.woxikon.fr/fr-pr%C3%A9%C3%A9tablir-to-pyramider",
+                
+               "https://verbes.woxikon.fr/fr-pyrograver-to-p%C3%A9r%C3%A9griner",
+                
+               "https://verbes.woxikon.fr/fr-p%C3%A9tarader-to-p%C3%AAcher",
+                
+q 
+               "https://verbes.woxikon.fr/fr-quadriller-to-qu%C3%AAter",
+                 
+R
+
+
+               "https://verbes.woxikon.fr/fr-rabaisser-to-racheter",
+                
+               "https://verbes.woxikon.fr/fr-raciner-to-raffermir",
+                
+               "https://verbes.woxikon.fr/fr-raffiler-to-raire",
+                
+               "https://verbes.woxikon.fr/fr-raisonner-to-ramener",
+                
+               "https://verbes.woxikon.fr/fr-ramer-to-rapi%C3%A9cer",
+                
+               "https://verbes.woxikon.fr/fr-rapi%C3%A9ceter-to-rassir",
+                
+               "https://verbes.woxikon.fr/fr-rassurer-to-ravauder",
+                
+               "https://verbes.woxikon.fr/fr-ravigoter-to-rebondir",
+                
+               "https://verbes.woxikon.fr/fr-reborder-to-recevoir",
+                
+               "https://verbes.woxikon.fr/fr-rechampir-to-recompara%C3%AEtre",
+                
+               "https://verbes.woxikon.fr/fr-recomposer-to-recouponner",
+                
+               "https://verbes.woxikon.fr/fr-recourber-to-rec%C3%A9der",
+                
+               "https://verbes.woxikon.fr/fr-rec%C3%A9ler-to-red%C3%A9marrer",
+                
+               "https://verbes.woxikon.fr/fr-red%C3%A9molir-to-refuser",
+                
+               "https://verbes.woxikon.fr/fr-regagner-to-rejointoyer",
+                
+               "https://verbes.woxikon.fr/fr-rejouer-to-remanier",
+                
+               "https://verbes.woxikon.fr/fr-remaquiller-to-remembrer",
+                
+               "https://verbes.woxikon.fr/fr-remercier-to-remparer",
+                
+               "https://verbes.woxikon.fr/fr-rempiler-to-rencaisser",
+                
+               "https://verbes.woxikon.fr/fr-rencarder-to-rengager",
+                
+               "https://verbes.woxikon.fr/fr-rengainer-to-rentrer",
+                
+               "https://verbes.woxikon.fr/fr-rentrouvrir-to-repa%C3%AEtre",
+                
+               "https://verbes.woxikon.fr/fr-repeigner-to-reporter",
+                
+               "https://verbes.woxikon.fr/fr-reposer-to-rescinder",
+                
+               "https://verbes.woxikon.fr/fr-resemer-to-ressuer",
+                
+               "https://verbes.woxikon.fr/fr-ressurgir-to-reterser",
+                
+               "https://verbes.woxikon.fr/fr-retirer-to-retrouver",
+                
+               "https://verbes.woxikon.fr/fr-ret%C3%A2ter-to-revivre",
+                
+               "https://verbes.woxikon.fr/fr-revoir-to-rimailler",
+                
+               "https://verbes.woxikon.fr/fr-rimer-to-rocquer",
+                
+               "https://verbes.woxikon.fr/fr-roder-to-rosser",
+                
+               "https://verbes.woxikon.fr/fr-roter-to-rucher",
+                
+               "https://verbes.woxikon.fr/fr-rudenter-to-r%C3%A9absorber",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9accoutumer-to-r%C3%A9assigner",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9assortir-to-r%C3%A9cr%C3%A9er",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9cup%C3%A9rer-to-r%C3%A9fracter",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9frig%C3%A9rer-to-r%C3%A9habiliter",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9habituer-to-r%C3%A9inviter",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9it%C3%A9rer-to-r%C3%A9primander",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9primer-to-r%C3%A9sumer",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9s%C3%A9quer-to-r%C3%A9volter",
+                
+               "https://verbes.woxikon.fr/fr-r%C3%A9volutionner-to-r%C3%B4tir",
+                  
+
+S
+
+
+               "https://verbes.woxikon.fr/fr-sabler-to-saisonner",
+                
+               "https://verbes.woxikon.fr/fr-salarier-to-sarcler",
+                
+               "https://verbes.woxikon.fr/fr-sarmenter-to-savoir",
+                
+               "https://verbes.woxikon.fr/fr-savonner-to-scotomiser",
+                
+               "https://verbes.woxikon.fr/fr-scratcher-to-seriner",
+                
+               "https://verbes.woxikon.fr/fr-seringuer-to-signifier",
+                
+               "https://verbes.woxikon.fr/fr-silhouetter-to-smasher",
+                
+               "https://verbes.woxikon.fr/fr-smiller-to-somatiser",
+                
+               "https://verbes.woxikon.fr/fr-sombrer-to-souffleter",
+                
+               "https://verbes.woxikon.fr/fr-souffrir-to-sous-employer",
+                
+               "https://verbes.woxikon.fr/fr-sous-entendre-to-spatialiser",
+                
+               "https://verbes.woxikon.fr/fr-sphac%C3%A9ler-to-stariser",
+                
+               "https://verbes.woxikon.fr/fr-stationner-to-stuquer",
+                
+               "https://verbes.woxikon.fr/fr-styler-to-substituer",
+                
+               "https://verbes.woxikon.fr/fr-subtiliser-to-sulfiter",
+                
+               "https://verbes.woxikon.fr/fr-sulfoner-to-surbaisser",
+                
+               "https://verbes.woxikon.fr/fr-surcharger-to-surgir",
+                
+               "https://verbes.woxikon.fr/fr-surglacer-to-surproduire",
+                
+               "https://verbes.woxikon.fr/fr-surprot%C3%A9ger-to-suspendre",
+                
+               "https://verbes.woxikon.fr/fr-sustenter-to-s%C3%A9culariser",
+                
+               "https://verbes.woxikon.fr/fr-s%C3%A9curiser-to-s%C3%A9vir",
+
+
+
+                 
+T 
+
+
+
+               "https://verbes.woxikon.fr/fr-tabasser-to-taniser",
+                
+               "https://verbes.woxikon.fr/fr-tanner-to-tarmacadamiser",
+                
+               "https://verbes.woxikon.fr/fr-tartiner-to-tendre",
+                
+               "https://verbes.woxikon.fr/fr-tenir-to-th%C3%A9sauriser",
+                
+               "https://verbes.woxikon.fr/fr-th%C3%A9%C3%A2traliser-to-ti%C3%A9dir",
+                
+               "https://verbes.woxikon.fr/fr-toaster-to-toronner",
+                
+               "https://verbes.woxikon.fr/fr-torpiller-to-tournasser",
+                
+               "https://verbes.woxikon.fr/fr-tournebouler-to-traiter",
+                
+               "https://verbes.woxikon.fr/fr-tramer-to-transiter",
+                
+               "https://verbes.woxikon.fr/fr-translater-to-travailloter",
+                
+               "https://verbes.woxikon.fr/fr-traverser-to-trifouiller",
+                
+               "https://verbes.woxikon.fr/fr-triller-to-tropicaliser",
+                
+               "https://verbes.woxikon.fr/fr-troquer-to-tr%C3%A9muler",
+                
+               "https://verbes.woxikon.fr/fr-tr%C3%A9paner-to-typer",
+                
+               "https://verbes.woxikon.fr/fr-typiser-to-t%C3%A9ter",
+
+
+u
+
+
+               "https://verbes.woxikon.fr/fr-ulc%C3%A9rer-to-utiliser",
+                   
+
+V 
+
+
+               "https://verbes.woxikon.fr/fr-vacciner-to-vanner",
+                
+               "https://verbes.woxikon.fr/fr-vanter-to-venter",
+                
+               "https://verbes.woxikon.fr/fr-ventiler-to-vexer",
+                
+               "https://verbes.woxikon.fr/fr-viabiliser-to-vioquir",
+                
+               "https://verbes.woxikon.fr/fr-virer-to-voguer",
+                
+               "https://verbes.woxikon.fr/fr-voiler-to-vrombir",
+                
+               "https://verbes.woxikon.fr/fr-vulcaniser-to-v%C3%AAtir",
+               
+W 
+
+
+               "https://verbes.woxikon.fr/fr-vacciner-to-vanner",
+                
+               "https://verbes.woxikon.fr/fr-vanter-to-venter",
+                
+               "https://verbes.woxikon.fr/fr-ventiler-to-vexer",
+                
+               "https://verbes.woxikon.fr/fr-viabiliser-to-vioquir",
+                
+               "https://verbes.woxikon.fr/fr-virer-to-voguer",
+                
+               "https://verbes.woxikon.fr/fr-voiler-to-vrombir",
+                
+               "https://verbes.woxikon.fr/fr-vulcaniser-to-v%C3%AAtir",
+
+
+Z 
+
+
+               "https://verbes.woxikon.fr/fr-zester-to-z%C3%A9zayer",
+          
+               
+              
+            
