@@ -2139,11 +2139,15 @@ Future getlink(String v) async {
 
 Future fetchPost() async {
   final response = await http.get(
-      'https://raw.githubusercontent.com/Abdelmjid-ASOUAB/Ma-Conjugaison/master/assets/tmp.json');
+      'https://raw.githubusercontent.com/Abdelmjid-ASOUAB/Ma-Conjugaison/master/lib/totverb.json');
 
   if (response.statusCode == 200) {
     // If server returns an OK response, parse the JSON.
-    print(json.decode(response.body));
+    var r = json.decode(response.body);
+
+    print(r["avoir"][temps[2]]);
+
+    closeSeach = true;
   } else {
     // If that response was not OK, throw an error.
     throw Exception('Failed to load post');

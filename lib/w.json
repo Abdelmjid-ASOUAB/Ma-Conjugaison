@@ -1,0 +1,125 @@
+{
+    ,
+    "warranter": {
+        "subjonctif passé": [
+            "aie warranté",
+            "aies warranté",
+            "ait warranté",
+            "ayons warranté",
+            "ayez warranté",
+            "aient warranté"
+        ],
+        "impératif présent": [
+            "-",
+            "warrante",
+            "-",
+            "warrantons",
+            "warrantez",
+            "-"
+        ],
+        "indicatif présent": [
+            "warrante",
+            "warrantes",
+            "warrante",
+            "warrantons",
+            "warrantez",
+            "warrantent"
+        ],
+        "indicatif passé composé": [
+            "ai warranté",
+            "as warranté",
+            "a warranté",
+            "avons warranté",
+            "avez warranté",
+            "ont warranté"
+        ],
+        "indicatif futur simple": [
+            "warranterai",
+            "warranteras",
+            "warrantera",
+            "warranterons",
+            "warranterez",
+            "warranteront"
+        ],
+        "indicatif imparfait": [
+            "warrantais",
+            "warrantais",
+            "warrantait",
+            "warrantions",
+            "warrantiez",
+            "warrantaient"
+        ],
+        "indicatif passé simple": [
+            "warrantai",
+            "warrantas",
+            "warranta",
+            "warrantâmes",
+            "warrantâtes",
+            "warrantèrent"
+        ],
+        "conditionnel présent": [
+            "warranterais",
+            "warranterais",
+            "warranterait",
+            "warranterions",
+            "warranteriez",
+            "warranteraient"
+        ],
+        "conditionnel passé 1re forme": [
+            "aurais warranté",
+            "aurais warranté",
+            "aurait warranté",
+            "aurions warranté",
+            "auriez warranté",
+            "auraient warranté"
+        ],
+        "indicatif plus-que-parfait": [
+            "avais warranté",
+            "avais warranté",
+            "avait warranté",
+            "avions warranté",
+            "aviez warranté",
+            "avaient warranté"
+        ],
+        "indicatif futur antérieur": [
+            "aurai warranté",
+            "auras warranté",
+            "aura warranté",
+            "aurons warranté",
+            "aurez warranté",
+            "auront warranté"
+        ],
+        "subjonctif présent": [
+            "warrante",
+            "warrantes",
+            "warrante",
+            "warrantions",
+            "warrantiez",
+            "warrantent"
+        ],
+        "indicatif passé antérieur": [
+            "eus warranté",
+            "eus warranté",
+            "eut warranté",
+            "eûmes warranté",
+            "eûtes warranté",
+            "eurent warranté"
+        ],
+        "subjonctif imparfait": [
+            "warrantasse",
+            "warrantasses",
+            "warrantât",
+            "warrantassions",
+            "warrantassiez",
+            "warrantassent"
+        ],
+        "subjonctif plus-que-parfait": [
+            "eusse warranté",
+            "eusses warranté",
+            "eût warranté",
+            "eussions warranté",
+            "eussiez warranté",
+            "eussent warranté"
+        ]
+    }
+}
